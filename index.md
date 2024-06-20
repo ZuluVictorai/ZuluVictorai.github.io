@@ -1,6 +1,6 @@
 # My Website
 
-[Go to Test Procedures](HAMMER SYSTEM USER INTERFACE PAGE.md.md){: .button }
+[Go to Test Procedures](HAMMER SYSTEM USER INTERFACE PAGE.md){: .button }
 [Go to User Interface Guide](page2.md){: .button }
 
 <style>
