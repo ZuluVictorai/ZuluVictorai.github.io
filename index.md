@@ -1,7 +1,7 @@
 # My Website
 
 [Go to Test Procedures](HAMMER_SYSTEM_USER_INTERFACE_PAGE.md){: .button }
-[Go to User Interface Guide](page2.md){: .button }
+[Go to User Interface Guide](TESTING_GUIDE.md){: .button }
 
 <style>
 .button {
