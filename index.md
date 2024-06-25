@@ -3,8 +3,8 @@
  - A script has been developed to bypass the Euronav and send commands to the transceiver. 
  - Please see the User Interface page for any user interface questions and the Testing Guide page for a sample testing plan to conduct.
 
-[Go to Test Procedures](HAMMER_SYSTEM_USER_INTERFACE_PAGE.md){: .button }
-[Go to User Interface Guide](TESTING_GUIDE.md){: .button }
+[Go to Test Procedures](HAMMER_SYSTEM_USER_INTERFACE_PAGE.md){: .button,bold }
+[Go to User Interface Guide](TESTING_GUIDE.md){: .button,bold }
 
 <style>
 .button {
