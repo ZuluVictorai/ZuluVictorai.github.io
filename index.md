@@ -3,21 +3,21 @@
  - A script has been developed to bypass the Euronav and send commands to the transceiver. 
  - Please see the User Interface page for any user interface questions and the Testing Guide page for a sample testing plan to conduct.
 
-[Go to Test Procedures](HAMMER_SYSTEM_USER_INTERFACE_PAGE.md){: .button,bold }
-[Go to User Interface Guide](TESTING_GUIDE.md){: .button,bold }
+[Go to Test Procedures](HAMMER_SYSTEM_USER_INTERFACE_PAGE.md){: .button }
+[Go to User Interface Guide](TESTING_GUIDE.md){: .button }
 
 <style>
 .button {
   display: inline-block;
-  background-color: blue;
-  color: white;
+  background-color: light blue;
+  color: grey;
   padding: 10px 20px;
   text-align: center;
-  text-decoration: none;
+  text-decoration: bold;
   font-size: 22px;
   margin: 4px 2px;
   cursor: pointer;
-  border-radius: 4px;
+  border-radius: 8px;
 }
 
 .button:hover {
